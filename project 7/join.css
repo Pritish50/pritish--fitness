@@ -1,0 +1,59 @@
+
+.small-heading{
+    color: green;
+    text-align: center;
+}
+.sub-heading{
+    color:  #8791de;
+    text-align: center;
+}
+.main-heading{
+    color: red;
+    text-align: center;
+}
+.line{
+    color: #2538cc;
+    background-color:aquamarine;
+}
+.button{
+    cursor: pointer;
+    background-color: rgb(159, 157, 162);
+    padding: 3px 10px;
+    border: 3px solid rgb(51, 58, 31);
+    color: aliceblue;
+    border-radius: 12px;
+    
+}
+button:hover{
+    background-color: rgb(209, 173, 110);
+}
+.button a{
+    text-decoration: none;
+    margin: 0 10px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(20, 19, 19);
+    align-items: center;
+    transition: all 0.5s ease-in-out;
+    align-items: center;
+}
+.buttons{
+    align-items: center;
+}
+.box{
+    padding: 1px 0;
+    margin: 12px 22px;
+    min-width: 20vw;
+    border: 3px solid rgb(113, 215, 243);
+    text-align: center;
+}
+.box ul{
+    list-style: none;
+}
+.boxes{
+    display: flex;
+    padding: 100px 80px;
+    justify-content: center;
+}
+.buttons{
+   text-align: center;
+}
